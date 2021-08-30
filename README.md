@@ -1,1 +1,2 @@
 # Cache-Prolog
+This is a simple implementation of cache system done by me in cooperation with two of my excellent colleagues (Aly Hassan El-Sokkary and Aya Ahmad Fayed). Everytime we want to retreive data, we check for it in the cache. If it was not available in the cache, it is retreived from the memory then stored in the cache, so that we can get it again from the cache directly in the future, which is faster than retreiving it from the memory. There are three cache mapping types; direct mapping, full associative mapping and set associative mapping.
